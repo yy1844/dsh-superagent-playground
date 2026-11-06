@@ -7,3 +7,4 @@ Sandbox for dsh-superagent: issues here are handled by the agent account `@yy184
 - Issues and comments written by the agent account itself never trigger (the source skips its own account), so a second account must start the work
 
 To file work, use the **交给 agent 的工单** issue template and fill its five parts: goal, location, acceptance criteria, out of scope, context.
+本行由 superagent 冒烟测试添加。
